@@ -1,4 +1,4 @@
-[![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)]
+![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 <h1 align="center">Hi 👋, I'm Hemanth Kumar C N</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
