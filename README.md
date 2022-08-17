@@ -4,7 +4,7 @@
 <p align="center">I mainly code in TypeScript, in 2020 I fell in love with Next.js, React, React Native, Svelte and so many other modern web frameworks. I am always learning. Currently I'm also working on a couple of open-source projects</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthkumar-cn&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthkumar-cn" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hemanthkumar-cn&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthkumar-cn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthkumar-cn" alt="hemanthkumar-cn" /></a> </p>
 
