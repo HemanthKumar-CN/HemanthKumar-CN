@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hemanthkumar-cn&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthkumar-cn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthkumar-cn" alt="hemanthkumar-cn" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthkumar-cn" alt="hemanthkumar-cn" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hemanthkumar_cn" target="blank"><img src="https://img.shields.io/twitter/follow/hemanthkumar_cn?logo=twitter&style=for-the-badge" alt="hemanthkumar_cn" /></a> </p>
 
