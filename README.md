@@ -1,7 +1,7 @@
 ![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 <h1 align="center">Hi 👋, I'm Hemanth Kumar C N</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="center">I mainly code in TypeScript, in 2020 I fell in love with Next.js, React, React Native, Svelte and so many other modern web frameworks. I am always learning. Currently I'm also working on a couple of open-source projects</p>
+<p align="center">I mainly code in Javascript and recently started with TypeScript. I have found my interest in React and so many other modern web frameworks. I am always learning. Currently I'm also looking forward to contribute in open-source projects</p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hemanthkumar-cn&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthkumar-cn" /> </p>
