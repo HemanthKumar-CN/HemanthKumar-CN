@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hemanthkumar-portfolio.netlify.app/](https://hemanthkumar-portfolio.netlify.app/)
 
-- 💬 Ask me about **react, MERN,**
+- 💬 Ask me about ** MERN **
 
 - 📫 How to reach me **hemanth.html@gmail.com**
 
