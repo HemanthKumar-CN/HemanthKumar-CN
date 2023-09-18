@@ -1,7 +1,7 @@
 ![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 <h1 align="center">Hi 👋, I'm Hemanth Kumar C N</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="center">I mainly code in Javascript and recently started with TypeScript. I have found my interest in React and so many other modern web frameworks. I am always learning. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. Currently I'm also looking forward to contribute in open-source projects.</p>
+<p align="center">I mainly code in Javascript and TypeScript. I have found my interest in React and so many other modern web frameworks. I am always learning. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. Currently I'm also looking forward to contribute in open-source projects.</p>
 <p align="center">I am currently working on a Slack Bot - trying to implement functionalities lacking in the official app. Check out the repo : [SlackBot_Charlie](https://github.com/HemanthKumar-CN/SlackBot_Charlie)</p>
 
 
