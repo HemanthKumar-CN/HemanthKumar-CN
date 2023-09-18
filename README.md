@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **PYTHON**
 
 - 👨‍💻 All of my projects are available at [https://hemanthkumar-portfolio.netlify.app/](https://hemanthkumar-portfolio.netlify.app/)
 
