@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **PYTHON**
 
-- 👨‍💻 All of my projects are available at [https://hemanthkumar-portfolio.netlify.app/](https://hemanthkumar-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [hemanthkumar.vercel.app](https://hemanthkumar.vercel.app/)
 
 - 💬 Ask me about ** MERN **
 
